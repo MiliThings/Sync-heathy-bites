@@ -160,4 +160,32 @@
         width: 100%;
     }
 
+    .btn-ghost:link, .btn-ghost:visited {
+        margin: 25px 20px ;
+        display: inline-block;
+        text-align: center;
+        padding: 10px 20px;
+    }
+
+    footer{
+        padding: 20px;
+        font-size:12px;
+        text-align: center;
+        padding: 5px;
+    }
+
+    .footer-nav{
+
+        float: none;
+        margin-top: 10px;
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .social-links{
+        float: none;
+        margin-top: 10px;
+        text-align: center;
+    }
+
 }
